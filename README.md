@@ -43,14 +43,7 @@ Serviço em background que:
 - Implementado para rodar como **Windows Service**
 
 ## 🏗 Estrutura de Pastas
-/src
-/CustomerManagement.API
-/DataProcessor.Worker
-/Domain
-/Application
-/Infrastructure
-/database
-Script.sql
+
 
 
 ## 🚀 Como Executar o Projeto
